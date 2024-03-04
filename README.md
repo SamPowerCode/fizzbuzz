@@ -1,5 +1,5 @@
 # fizzbuzz
-A simple program that prints the numbers from 1 to 100, with the following exceptions:
+A simple script that prints the numbers from 1 to 100, with the following exceptions:
 * For multiples of three print "Three" instead of the number
 * For the multiples of five print "Five"
 * For numbers which are multiples of both three and five print "ThreeFive"
@@ -16,7 +16,7 @@ The better version can be run in the same manner:
 python better.py
 ```
 
-The better version is testable, because instead of printing the output from the fizzbuzz function, it returns a value, making it testable. To run the Python tests, in a terminal window type:
+The better version is testable, because instead of printing the output from the fizzbuzz function, it returns a value. To run the Python tests, in a terminal window type:
 
 
 ```bash
